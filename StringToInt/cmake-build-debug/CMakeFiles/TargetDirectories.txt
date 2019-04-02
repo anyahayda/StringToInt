@@ -1,0 +1,3 @@
+/Users/vitaliyhayda/Desktop/UCU2/АКС/StringToInt/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/vitaliyhayda/Desktop/UCU2/АКС/StringToInt/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/vitaliyhayda/Desktop/UCU2/АКС/StringToInt/cmake-build-debug/CMakeFiles/StringToInt.dir

@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/vitaliyhayda/Desktop/UCU2/АКС/StringToInt/main.cpp
+iostream
+-
+vector
+-
+fstream
+-
+iomanip
+-
+map
+-
+sstream
+-
+atomic
+-
+chrono
+-
+
