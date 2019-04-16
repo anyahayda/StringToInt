@@ -1,6 +1,6 @@
 # StringToInteger
 To run:
-<pre> mkdir build
+<pre>mkdir build
 cd build
 cmake ..
 make
